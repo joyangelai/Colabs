@@ -1,2 +1,2 @@
 # Colabs
-Old Colab notes
+Old Colab notes. Self learning notebooks and practice
